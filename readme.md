@@ -1,0 +1,1 @@
+This project is the very first project in the Odin Project, It demonstrates I have the ability to navigate GIT and Github interchangeably while also having foundational knowledge of the HTML language.
